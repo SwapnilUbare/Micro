@@ -4,4 +4,4 @@ server:
   eureka:
     client:
        fetch-registry: false
-       registry-with-eurwka: false
+       registry-with-eureka: false
